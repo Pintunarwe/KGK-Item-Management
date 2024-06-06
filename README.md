@@ -32,11 +32,7 @@ A comprehensive RESTful API for a real-time bidding platform using Node.js, Expr
 
 3. Create a `.env` file in the root directory and add your configuration settings:
     ```env
-    DB_HOST=localhost
-    DB_USER=root
-    DB_PASSWORD=Pintu@0304
-    DB_NAME=bidding_db
-    JWT_SECRET=your_secret_key
+ 
     ```
 
 4. Create the database and tables using Sequelize migrations:
